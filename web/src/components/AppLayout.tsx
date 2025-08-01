@@ -1,6 +1,6 @@
 
-import { Outlet } from "react-router";
 import { Header } from "./Header";
+import { Outlet } from "react-router";
 
 export function AppLayout() {
   return (
